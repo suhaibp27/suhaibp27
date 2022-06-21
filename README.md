@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhaib Peechanary
-- 👀 I’m interested in UI/UX, Frontend Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in UI/UX, Frontend Development roles
+- 🌱 I’m proficient in React.js, JavaScript, CSS, HTML
 - 💞️ I’m looking to collaborate on projects utilising React.js
 - 📫 How to reach me suhaibp27@gmail.com
 
